@@ -1,16 +1,16 @@
 # Hi, I'm Praveen 👋
 
-![Profile Banner](images/github-profile-banner.png)
+![Profile Banner](images/banner.png)
 
 ## 🤵 About_Me
 
-- 🌱 I'm currently learning front-end development
-- 🤔 I use daily `.js`,` .html`, `.sass`/`.css`
+- 🌱 I'm currently learning backend-end frameworks
+- 🤔 I use daily `.py`, `.js`, `.html`, `.sass`/`.css`
 - 📝 I write articles on [indietutes.com](https://indietutes.com)
-- 💬 Talk to me about Technology, Space and Politics
+- 💬 Talk to me about Technology, Space and Trading
 - 😄 Pronouns: He/Him
 - 👯 I’m looking to collaborate on Web development
-- ☕ I don't use Caffeine
+- ☕ I don't take Caffeine
 
 ## 🌍 Lets_Connect_On
 
@@ -29,18 +29,18 @@
 
 <table>
   <tr>
-    <td align="center" width="96">
-      <a>
-        <img src="icons/js.svg" width="40"/>
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
+     <td align="center" width="96">
       <a>
         <img src="icons/python.svg" width="40"/>
       </a>
       <br>Python
     </td>
+    <td align="center" width="96">
+      <a>
+        <img src="icons/js.svg" width="40"/>
+      </a>
+      <br>JavaScript
+    </td>   
     <td align="center" width="96">
       <a>
         <img src="icons/php.svg" width="40"/>
@@ -60,6 +60,12 @@
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="icons/django.svg" width="40"/>
+      </a>
+      <br>Django
+    </td>
     <td align="center" width="96">
       <a>
         <img src="icons/react.svg" width="40"/>
@@ -83,6 +89,37 @@
         <img src="icons/bootstrap.svg" width="40"/>
       </a>
       <br>Bootstrap
+    </td>
+  </tr>
+</table>
+
+**DevOps**
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a>
+        <img src="icons/aws.png" width="40"/>
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="icons/azure.svg" width="40"/>
+      </a>
+      <br>Azure
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="icons/heroku.svg" width="40"/>
+      </a>
+      <br>Heroku
+    </td>
+    <td align="center" width="96">
+      <a>
+        <img src="icons/netlify.svg" width="40"/>
+      </a>
+      <br>Netlify
     </td>
   </tr>
 </table>
